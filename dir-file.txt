@@ -1,1 +1,1 @@
-this is within the directory and changed by desktop file
+this is within the directory
